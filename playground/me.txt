@@ -1,0 +1,6 @@
+{{#user}}
+Name: Praveen kumar R
+Skills: AWS, Linux, Git, Ansible , Docker , Terraform , Jenkins.
+Email: praveenkranjendran06@gmail.com
+{{/user}}
+
